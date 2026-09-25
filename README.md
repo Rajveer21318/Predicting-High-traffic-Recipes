@@ -135,7 +135,6 @@ The dashboard presents:
 
 - Overall high-traffic rate
 - High-traffic rate by recipe category
-- Nutritional feature distributions
 - Model accuracy
 - Model precision
 - Model ROC-AUC
