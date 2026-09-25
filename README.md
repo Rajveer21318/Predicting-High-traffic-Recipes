@@ -142,7 +142,7 @@ The dashboard presents:
 
 The dashboard provides a visual link between the underlying analysis and the business decision, allowing stakeholders to compare recipe categories and understand the performance of the predictive models.
 
-![Power BI Dashboard](Images/High Traffic PowerBI SS.png)
+[![Power BI Dashboard Preview](Images/High Traffic PowerBI SS.png)](<iframe title="Predicting High traffic" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMmQ1ZjIxNmItYzY1YS00MmU3LWEzZGUtMjExNmEyNWQyYWQwIiwidCI6IjFlMjUwZmE5LTQ5MTctNGNmYi1hMWRkLWE2YWE0YzRiNjJmNyJ9" frameborder="0" allowFullScreen="true"></iframe>)
 
 ## Key Takeaways
 
