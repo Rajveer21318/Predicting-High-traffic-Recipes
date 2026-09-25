@@ -142,7 +142,7 @@ The dashboard presents:
 
 The dashboard provides a visual link between the underlying analysis and the business decision, allowing stakeholders to compare recipe categories and understand the performance of the predictive models.
 
-![Power BI Dashboard](images/powerbi-dashboard.png)
+![Power BI Dashboard](Images/High Traffic PowerBI SS.png)
 
 ## Key Takeaways
 
